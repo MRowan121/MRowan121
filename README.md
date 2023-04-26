@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 <p align="center">FE Engineer - Turing School of Software & Design Alumni</p>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=MRowan121&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRowan121&layout=compact&langs_count=5&theme=dark" />
-  </a>
+    <img align="center" height="175em" src="https://github-readme-stats.vercel.app/api?username=MRowan121&show_icons=true&theme=dark" />
+    <img align="center" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRowan121&layout=compact&langs_count=5&theme=dark" />
 </div>
