@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRowan121&show_icons=true&theme=dark)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRowan121&layout=compact&langs_count=5&theme=dark)
+<h1 align="center">Matt Rowan</h1>
+
+<p align="center">St. Augustine, FL</p>
+<p align="center">FE Engineer - Turing School of Software & Design Alumni</p>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=MRowan121&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRowan121&layout=compact&langs_count=5&theme=dark" />
+  </a>
+</div>
